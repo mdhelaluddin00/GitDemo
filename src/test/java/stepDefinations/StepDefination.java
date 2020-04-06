@@ -23,6 +23,8 @@ public class StepDefination {
     public void user_login_into_application_with_something_and_password_something(String strArg1, String strArg2) throws Throwable {
         System.out.println(strArg1);
         System.out.println(strArg2);
+        System.out.println("Gitx Develop branch1");
+        System.out.println("Gitx Develop branch1");
     }
 
     @Then("^Home page is populated$")
