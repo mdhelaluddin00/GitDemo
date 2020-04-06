@@ -27,6 +27,8 @@ public class StepDefination {
     public void home_page_is_populated() throws Throwable {
         //throw new PendingException();
     	System.out.println("home page is populated");
+    	System.out.println("home page is populated1");
+    	System.out.println("home page is populated2");
     }
     
 
