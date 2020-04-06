@@ -29,6 +29,10 @@ public class StepDefination {
     	System.out.println("home page is populated");
     	System.out.println("home page is populated1");
     	System.out.println("home page is populated2");
+    	// new code 
+    	
+    	System.out.println("home page is populated3");
+    	System.out.println("home page is populated4");
     }
     
 
@@ -38,6 +42,7 @@ public class StepDefination {
 		
 		System.out.println("should work");
 		//throw new PendingException();
+		System.out.println("should work2");
 	}
 
 
