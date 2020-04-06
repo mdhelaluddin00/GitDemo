@@ -15,6 +15,8 @@ public class StepDefination {
     public void user_is_on_bank_landing_page() throws Throwable {
         //throw new PendingException();
     	System.out.println("user landing on home page");
+    	System.out.println("user landing on home page");
+    	System.out.println("user landing on home page");
     }
 
     @When("^User login into application with \"([^\"]*)\" and password \"([^\"]*)\"$")
@@ -43,6 +45,8 @@ public class StepDefination {
 		System.out.println("should work");
 		//throw new PendingException();
 		System.out.println("should work2");
+		System.out.println("should work3");
+		System.out.println("should work4");
 	}
 
 
